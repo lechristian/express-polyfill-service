@@ -1,5 +1,5 @@
 # Express Polyfill Service
-An [express] middleware for [Polyfill Service](https://github.com/Financial-Times/polyfill-service) by Financial-Times
+An [express](http://expressjs.com/en/index.html) middleware for [Polyfill Service](https://github.com/Financial-Times/polyfill-service) by Financial-Times
 
 ## Installation
 
