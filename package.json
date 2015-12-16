@@ -1,0 +1,31 @@
+{
+  "name": "express-polyfill-service",
+  "version": "0.0.1",
+  "description": "Express middleware for polyfill-service",
+  "main": "index.js",
+  "dependencies": {
+    "polyfill-service": "^2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cle1994/express-polyfill-service.git"
+  },
+  "author": {
+    "name": "Christian Le",
+    "url": "http://github.com/cle1994"
+  },
+  "keywords": [
+    "express",
+    "polyfills",
+    "polyfill",
+    "polyfill-service"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cle1994/express-polyfill-service/issues"
+  },
+  "homepage": "https://github.com/cle1994/express-polyfill-service"
+}
