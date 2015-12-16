@@ -27,7 +27,7 @@ app.use('/polyfill.js', polyfill([options]));
 
 `options` is a javascript object with the following properties:
 
-These are the default properties passed directly to [getPolyfillString]https://github.com/Financial-Times/polyfill-service#library-api-reference
+These are the default properties passed directly to [getPolyfillString](https://github.com/Financial-Times/polyfill-service#library-api-reference)
 
 * `uaString`: String, required. The user agent to evaluate for polyfills that should be included conditionally
 * `minify`: Boolean, optional. Whether to minify the bundle
